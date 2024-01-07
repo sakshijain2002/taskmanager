@@ -1,4 +1,6 @@
 SpringBoot Application running on localhost 8080
+URL: http://localhost:8080
+THIS URL SHOW THE UI OF PROJECT
 jdk 17 is required
 
 /*Database setup:
